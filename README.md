@@ -1,4 +1,4 @@
-# Hi there 👋
+# hey there 👋
 
 ![](https://komarev.com/ghpvc/?username=jackholden&color=3BCEAC)
 
